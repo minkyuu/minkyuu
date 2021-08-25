@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Minkyu Lee who is interested in Backend Development from South Korea.
+
+<br>
 
 Tech Stack 🛠
 
@@ -9,6 +13,18 @@ Tech Stack 🛠
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-FECC00?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
+
+<br>
+
+Interests ✨
+
+- OOP
+
+- Web Development (HTTP & REST API)
+
+- Clean Code (TDD, Refactoring)
+
+- Communication Skiils
 <!--
 **minkyuu/minkyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
