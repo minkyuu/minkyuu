@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Minkyu Lee who is interested in Backend Development from South Korea.
+I'm Minkyu Lee who is interested in Backend Development.
 
 <br>
 
