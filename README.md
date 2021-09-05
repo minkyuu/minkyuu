@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Minkyu Lee who is interested in Backend Development and improving Application, Service.
+I'm Minkyu Lee interested in Backend Development and improving Application & Service.
 
 <br>
 
