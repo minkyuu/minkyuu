@@ -12,6 +12,7 @@ Tech Stack 🛠
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-FECC00?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 
 <br>
